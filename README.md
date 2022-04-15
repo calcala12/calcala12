@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on Web Applications and Websites 
 - 📫 How to reach me:
-- https://www.linkedin.com/in/carlos-alcala-2b9413130/
+- https://www.linkedin.com/in/carlos-alcala12/
 - caalcala123@gmail.com
 
 <!---
