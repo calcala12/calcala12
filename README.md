@@ -1,15 +1,15 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Carlos</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Carlos. -->
+<!-- ## 👋 &nbsp;Hey there! I'm Carlos/./ -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Full-Stack Engineering.\
 🌱 &nbsp;I'm on track for learning more about Web Applications and Web Functionality.\
-✍️ &nbsp;In my free time, I play guitar and spend time with my family..\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at caalcala123@gmail.com! I'll try to respond as soon as I can.\
+✍️ &nbsp;In my free time, I play guitar and spend time with my family.\
+💬 &nbsp;Feel free to reach out to me for collaborations, consulting, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at caalcala123@gmail.com! I'll try to respond as soon as I can.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
